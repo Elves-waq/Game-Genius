@@ -125,3 +125,52 @@ body {
 .ative{
     opacity: 0.4;
 }
+
+@media (min-width:320px) and (max-width:600px){
+    .game__genius__area{
+        width: 310px;
+        height: 310px;
+    }
+    .controler__area{
+        width: 120px;
+        height: 120px;
+    }
+    .color__area--blue{
+        width: 120px;
+        height: 120px;
+    }
+    .color__area--red{
+        width: 120px;
+        height: 120px;
+    }
+    .color__area--green{
+        width: 120px;
+        height: 120px;
+    }
+    .color__area--yellow{
+        width: 120px;
+        height: 120px;
+    }
+    .detail__game--yellow{
+        width: 80px;
+        height: 80px;
+    }
+    .detail__game--red{
+        width: 80px;
+        height: 80px;
+    }
+    .detail__game--green{
+        width: 80px;
+        height: 80px;
+    }
+    .detail__game--blue{
+        width: 80px;
+        height: 80px;
+    }
+    .start__button{
+        margin-top: -10px;
+        padding: 5px;
+
+    }
+
+}
